@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource dir="file:///android_asset/Configuration_File" />
+<resource dir="file:///android_asset/samples" />
+<resource dir="file:///android_asset/usr/pages/display" />
+
+
+<group>
+    <text>
+        <desc>广告</desc>
+    </text>
+    
+     <page link="https://www.123865.com/s/1Si7jv-ZYBRv">
+        <title>广告：Toolkit工具箱</title>
+        <desc>由玩机百宝箱官方开发的新软件</desc>
+    </page>
+
+     <page link="https://rootes.top/ai/">
+        <title>广告:免费ai</title>
+        <desc>永久使用</desc>
+    </page>
+
+</group>
